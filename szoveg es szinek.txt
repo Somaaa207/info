@@ -1,0 +1,117 @@
+Háttérszín: FFA14F
+
+Magyar Informatika Napja (7D340D)
+
+ - Ünnep dátuma: Január 21.
+ - Első megünneplés éve: 2022
+ - Kapcsolódó történelmi esemény: Az első magyar, Neumann-elvű elektronikus számítógép, az M-3 működéséről szóló első sajtóhír megjelenése (1959. január 21.).
+
+Menüpontok:
+	Történelmi háttér
+	Az M-3 számítógép
+	A Magyar Informatika Napjának jelentősége
+	Kapcsolódó események
+	Az M-3 számítógép megalkotói
+	A konferencia programja és űrlapja
+
+Történelmi háttér (7D340D)
+1959. január 21-én a magyar sajtó hírt adott az első magyar fejlesztésű elektronikus számítógép, az M-3 sikeres működéséről. Az M-3 a Magyar Tudományos Akadémia (MTA) Kibernetikai Kutatócsoportjának mérföldkövet jelentő fejlesztése volt, amelyet a korszak technológiai és tudományos kihívásai inspiráltak. 
+Az M-3 a Neumann János által kidolgozott Neumann-architektúra alapelvei szerint készült. Ez az elv a modern számítógépek működésének alapja, amely szerint a számítógépek:
+ - Egyetlen központi feldolgozóegységgel (CPU) rendelkeznek,
+ - Bináris számrendszert használnak,
+ - Programozásuk tárolt utasításokkal történik.
+
+Az M-3 számítógép (7D340D)
+Az M-3 fejlesztését és építését a magyar mérnökök és tudósok az 1950-es évek végén kezdték meg. A projekt az MTA Kibernetikai Kutatócsoportjának égisze alatt zajlott, amely a korszak legjobb magyar matematikusait és mérnökeit fogta össze. 
+Jellemzői:
+ - Technológia: Elektroncsövekre épült, ami akkoriban korszerű megoldásnak számított.
+ - Felhasználás: Tudományos számítások, ipari folyamatok optimalizálása, statisztikai elemzések.
+ - Fejlesztési cél: Az M-3 megalkotása nemcsak technológiai, hanem szimbolikus jelentőséggel is bírt, hiszen Magyarországot a világ számítástechnikai térképére helyezte.
+
+A Magyar Informatika Napjának jelentősége (7D340D)
+A Magyar Informatika Napját azzal a céllal hozták létre, hogy tisztelegjenek a magyar informatika úttörői és történelmi teljesítményei előtt.
+Az ünnep:
+ 1. Emlékeztető a múlt eredményeire: Felhívja a figyelmet az M-3 és más jelentős magyar fejlesztések fontosságára.
+ 2. Tisztelgés az alkotók előtt: Az M-3 fejlesztésében részt vevő szakemberek közül többen ma is élnek, és ezen a napon különleges figyelemben részesülnek.
+ 3. A jövő inspirálása: Az informatika napja ösztönzi a fiatal generációt arra, hogy az informatika területén folytassák a magyar szakemberek hagyományait.
+
+Kapcsolódó események (7D340D)
+A Magyar Informatika Napján rendszeresen szerveznek:
+ - Tudományos előadásokat és kiállításokat, amelyek bemutatják az M-3-at és más magyar innovációkat.
+ - Oktatási programokat iskolákban, hogy a diákok megismerjék a magyar informatika történelmét.
+ - Kitüntetéseket és elismeréseket a jelenlegi informatikai szakemberek számára.
+
+Az M-3 számítógép megalkotói (7D340D)
+Kalmár László (1905–1976) (7D340D, nem félkövér)
+Matematikus, a számítástudomány úttörője Magyarországon.
+Életrajz:
+Születés: 1905. március 27., Eger.
+Tanulmányok: Matematika-fizika szakos tanári diploma, Szegedi Tudományegyetem.
+Pályafutás:
+A szegedi egyetem professzora, a matematikai logika és számítástudomány elismert oktatója.
+Kiemelkedő szerepet játszott a Neumann-elvű számítógépek elméleti alapjainak ismertetésében Magyarországon.
+Az automatikus gépi számítások elméletének fejlesztésében úttörő munkát végzett.
+Hozzájárulás az M-3 fejlesztéséhez:
+Kalmár a számítógépek elméleti alapjait népszerűsítette Magyarországon, és támogatta az olyan projektek indulását, mint az M-3 fejlesztése. Bár közvetlenül nem vett részt az építésben, szellemi vezetőként nagy hatással volt a magyar informatika fejlődésére.
+
+Varga József (1912–2001) (7D340D, nem félkövér)
+Mérnök, a magyar számítástechnikai fejlesztések egyik kulcsfigurája.
+Életrajz:
+Születés: 1912. szeptember 25., Szombathely.
+Tanulmányok: Villamosmérnöki diploma a Budapesti Műszaki Egyetemen.
+Pályafutás:
+A Magyar Tudományos Akadémia munkatársa, később a Kibernetikai Kutatócsoport egyik vezető mérnöke.
+Az elektronikus számítógépek tervezésének és építésének gyakorlati kérdéseiben kiemelkedő szerepet játszott.
+Hozzájárulás az M-3 fejlesztéséhez:
+Varga József az M-3 fejlesztésének egyik főmérnöke volt. Az elektroncsöves áramkörök tervezése és a számítógép szerkezeti felépítésének kidolgozása az ő feladatai közé tartozott.
+
+Rátz László (1919–1991) (7D340D, nem félkövér)
+Programozó és matematikus, az első magyar számítógépes szoftverek egyik alkotója.
+Életrajz:
+Születés: 1919. január 14., Budapest.
+Tanulmányok: Matematika-fizika szak, Eötvös Loránd Tudományegyetem.
+Pályafutás:
+Az MTA Kibernetikai Kutatócsoportjának tagja.
+Kiemelkedő szerepet játszott az első magyar programozási nyelvek fejlesztésében.
+Hozzájárulás az M-3 fejlesztéséhez:
+Rátz László az M-3 programozásában vett részt. Az általa fejlesztett programok segítségével az M-3 ipari és tudományos számításokat végzett.
+
+Simonyi Károly (1916–2001) (7D340D, nem félkövér)
+Fizikus és mérnök, az elektronikus eszközök magyarországi fejlesztésének egyik úttörője.
+Életrajz:
+Születés: 1916. október 18., Budapest.
+Tanulmányok: Villamosmérnöki diploma a Budapesti Műszaki Egyetemen.
+Pályafutás:
+Az MTA munkatársa, a kibernetikai kutatások és a számítástechnika támogatója.
+Neve összefonódik az M-3 fejlesztésével, amely során a hardveres megvalósítás technikai kérdéseiben segített.
+Hozzájárulás az M-3 fejlesztéséhez:
+Simonyi Károly szakmai tanácsaival segítette a projektet. Később az oktatásban és a tudományos ismeretterjesztésben játszott fontos szerepet.
+
+Dömölki Bálint (7D340D, nem félkövér)
+Születési dátum: 1932. július 11.
+Életrajz és munkásság:
+Tanulmányok: A Budapesti Műszaki Egyetemen szerzett villamosmérnöki diplomát.
+Pályafutás:
+Az MTA Kibernetikai Kutatócsoportjának tagjaként részt vett az M-3 számítógép fejlesztésében és programozásában.
+Később a számítástechnika területén folytatta munkáját, hozzájárulva a hazai informatika fejlődéséhez.
+
+A konferencia programja (7D340D)
+Ünnepélyes megnyitó
+Előadások az M-3 fejlesztésének történetéről
+Interaktív workshopok a modern technológiai trendekről
+Panelbeszélgetések neves szakértőkkel
+Záróünnepség és díjátadó
+
+Jelentkezés az eseményre (7D340D)
+Kérjük, töltse ki az alábbi űrlapot a konferencián való részvételhez!
+Teljes név:
+Életkor:
+E-mail cím:
+Jegyek száma:
+Kér ételt és szállást?
+Mindkettőt
+Csak ételt
+Csak szállást
+Egyiket sem
+
+Készítette: (7D340D)
