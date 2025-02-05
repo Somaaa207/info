@@ -26,17 +26,21 @@
     <section id="tortenelmi-hatter">
         <h2>Történelmi háttér</h2>
         <p>1959. január 21-én a magyar sajtó hírt adott az M-3 számítógép működéséről...</p>
+        <p>2022 óta január 21-én ünnepeljük a Magyar Informatika Napját, emlékezve az első magyar, Neumann-elvű elektronikus számítógép működésére. A sajtó 1959. január 21-én számolt be az M-3 számítógép működéséről, amely alapvető szerepet játszott a magyar számítástechnikai fejlődésben. Az MTA Kibernetikai Kutatócsoportja által kifejlesztett számítógép hatása a mai napig érezhető a hazai informatikai életben.</p>
         <img src="kep/history.jpg" alt="Történelmi számítógép">
     </section>
     
     <section id="m3-szamitogep">
         <h2>Az M-3 számítógép</h2>
+        <p>Az M-3 az első magyar, Neumann-elvű elektronikus számítógép volt, amely a modern számítástechnika alapjait fektette le Magyarországon. Az MTA Kibernetikai Kutatócsoportja dolgozott a fejlesztésén, és az új gép jelentős előrelépést jelentett a számítástechnikai kutatások terén. A Neumann-elv alapvetően az elektronikus számítógépek működési elvét határozta meg, és azóta is a legtöbb modern számítógép ezen elv szerint működik.</p>
         <p>Az M-3 a Neumann-architektúra alapján készült...</p>
         <img src="kep/m3_computer.jpg" alt="M-3 számítógép">
     </section>
     
     <section id="jelentoseg">
         <h2>A Magyar Informatika Napjának jelentősége</h2>
+        <p>A Magyar Informatika Napja nemcsak a történelmi jelentőségű eseményekre emlékezik, hanem lehetőséget ad arra is, hogy tisztelettel adózzunk mindazok előtt, akik hozzájárultak a magyar informatika fejlődéséhez. Ezen a napon szakemberek, kutatók és diákok gyűlnek össze, hogy megosszák tudományos eredményeiket, tapasztalataikat, és együtt ünnepeljék a magyar informatika eredményeit.</p>
+
         <p>Emlékeztet a múlt eredményeire, tisztelgés az alkotók előtt...</p>
         <img src="kep/importance.jpg" alt="Informatika ünnepe">
     </section>
